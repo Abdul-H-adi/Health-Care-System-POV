@@ -15,4 +15,4 @@ A comprehensive C++ console application simulating a Health Care System with sep
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/Health-Care-System-POV.git
+git clone https://github.com/Abdul-H-adi/Health-Care-System-POV.git
